@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/95e1d88c3e7167baec0ff10bae68184c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.3] /home/aaron/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/df60abcc6bb1136fefbc38b6858fe1f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.microsoft.azure.android:azure-storage-android:2.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/azure-storage-android-2.0.0.aar/ce311cdad03703fcec7b12902188a1e4/AndroidManifest.xml:11:1-20:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b105c9f7c30bec8bd2e4e229a6cf7a0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d685f9527f1a302108a1a709c52356f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ab93c33178ab91a7a190d677dda1371b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1967a8daa4729fb8dd1377370d9eaa0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9b66f22438379a853ddc59b6e81c10bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a915ab10284366ff4c572e5b06eae006/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a658372b668d9c2f613984d51f776856/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d37f18231e96d5421b3de9dc4129cc87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ecac4ca2f4f84d033eeda1011c60f9fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3643e539be35929f7602ddf115f5c1ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ba92ed1e850afbf736b29fd9475d4acd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/988fbedea0cff32931ce2137ccbd7c85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c8ff8d57d5d94a87dd4a66dd791482af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dff020a2a4588c9cb322bc784c7b9fc2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/db58574edfba1e9d4a79b081ca7a65fb/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b488a554bbd04308c3f5373ae810e9d2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/aaron/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1d4b73d81553db9a41c65d191a461d9d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b5094c01d7c7d6e315bd7267d496761a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/28a5620c50b591c9c00ae11b1e251b30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b54dbd025cfe72350fa5a02d2e743cf5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/aaron/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/89da4932f720b8906bf8c17f35dffc60/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/aaron/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d7cf2d250795f38f34da07ed8873d7b1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aaron/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6b1dae7d420b579901c189c8128ccabb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/aaron/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/24aefce6a2e40d86a340365402c3a845/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3e84bdfbd145044d02389f3b12999456/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:3:5-64
+		INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.microsoft.azure.android:azure-storage-android:2.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/azure-storage-android-2.0.0.aar/ce311cdad03703fcec7b12902188a1e4/AndroidManifest.xml:18:5-67
+MERGED from [com.microsoft.azure.android:azure-storage-android:2.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/azure-storage-android-2.0.0.aar/ce311cdad03703fcec7b12902188a1e4/AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:8:5-21:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dff020a2a4588c9cb322bc784c7b9fc2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dff020a2a4588c9cb322bc784c7b9fc2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/db58574edfba1e9d4a79b081ca7a65fb/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/db58574edfba1e9d4a79b081ca7a65fb/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dff020a2a4588c9cb322bc784c7b9fc2/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.microsoft.azure.iot.sdk.samples.androidsample.MainActivity
+ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml
+INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/95e1d88c3e7167baec0ff10bae68184c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/95e1d88c3e7167baec0ff10bae68184c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.3] /home/aaron/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/df60abcc6bb1136fefbc38b6858fe1f0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /home/aaron/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/df60abcc6bb1136fefbc38b6858fe1f0/AndroidManifest.xml:20:5-43
+MERGED from [com.microsoft.azure.android:azure-storage-android:2.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/azure-storage-android-2.0.0.aar/ce311cdad03703fcec7b12902188a1e4/AndroidManifest.xml:14:38-16:41
+MERGED from [com.microsoft.azure.android:azure-storage-android:2.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/azure-storage-android-2.0.0.aar/ce311cdad03703fcec7b12902188a1e4/AndroidManifest.xml:14:38-16:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b105c9f7c30bec8bd2e4e229a6cf7a0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b105c9f7c30bec8bd2e4e229a6cf7a0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d685f9527f1a302108a1a709c52356f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d685f9527f1a302108a1a709c52356f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ab93c33178ab91a7a190d677dda1371b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ab93c33178ab91a7a190d677dda1371b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1967a8daa4729fb8dd1377370d9eaa0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1967a8daa4729fb8dd1377370d9eaa0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9b66f22438379a853ddc59b6e81c10bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9b66f22438379a853ddc59b6e81c10bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a915ab10284366ff4c572e5b06eae006/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a915ab10284366ff4c572e5b06eae006/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a658372b668d9c2f613984d51f776856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/a658372b668d9c2f613984d51f776856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d37f18231e96d5421b3de9dc4129cc87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d37f18231e96d5421b3de9dc4129cc87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ecac4ca2f4f84d033eeda1011c60f9fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ecac4ca2f4f84d033eeda1011c60f9fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3643e539be35929f7602ddf115f5c1ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3643e539be35929f7602ddf115f5c1ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ba92ed1e850afbf736b29fd9475d4acd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ba92ed1e850afbf736b29fd9475d4acd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/988fbedea0cff32931ce2137ccbd7c85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/988fbedea0cff32931ce2137ccbd7c85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c8ff8d57d5d94a87dd4a66dd791482af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c8ff8d57d5d94a87dd4a66dd791482af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dff020a2a4588c9cb322bc784c7b9fc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dff020a2a4588c9cb322bc784c7b9fc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/db58574edfba1e9d4a79b081ca7a65fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/db58574edfba1e9d4a79b081ca7a65fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b488a554bbd04308c3f5373ae810e9d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b488a554bbd04308c3f5373ae810e9d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/aaron/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1d4b73d81553db9a41c65d191a461d9d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/aaron/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1d4b73d81553db9a41c65d191a461d9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b5094c01d7c7d6e315bd7267d496761a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b5094c01d7c7d6e315bd7267d496761a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/28a5620c50b591c9c00ae11b1e251b30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/28a5620c50b591c9c00ae11b1e251b30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b54dbd025cfe72350fa5a02d2e743cf5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b54dbd025cfe72350fa5a02d2e743cf5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/aaron/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/89da4932f720b8906bf8c17f35dffc60/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/aaron/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/89da4932f720b8906bf8c17f35dffc60/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/aaron/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d7cf2d250795f38f34da07ed8873d7b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/aaron/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d7cf2d250795f38f34da07ed8873d7b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aaron/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6b1dae7d420b579901c189c8128ccabb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aaron/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6b1dae7d420b579901c189c8128ccabb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/aaron/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/24aefce6a2e40d86a340365402c3a845/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/aaron/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/24aefce6a2e40d86a340365402c3a845/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3e84bdfbd145044d02389f3b12999456/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/aaron/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3e84bdfbd145044d02389f3b12999456/AndroidManifest.xml:20:5-44
+INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml
+INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aaron/Android-Azure/azure-iot-samples-java/iot-hub/Samples/device/AndroidSample/app/src/main/AndroidManifest.xml
